@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Text Entered in textbox]]>
+    </line>
+    <line>
+      <![CDATA[list item selected]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29693" started-at="2019-04-06T13:40:22Z" finished-at="2019-04-06T13:40:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29693" started-at="2019-04-06T13:40:22Z" finished-at="2019-04-06T13:40:52Z">
+      <class name="com.qa.Aprill.Seleniumm.Testclass">
+        <test-method status="PASS" signature="f1()[pri:0, instance:com.qa.Aprill.Seleniumm.Testclass@2b98378d]" name="f1" duration-ms="29649" started-at="2019-04-06T13:40:22Z" finished-at="2019-04-06T13:40:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Text Entered in textbox]]>
+            </line>
+            <line>
+              <![CDATA[list item selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- com.qa.Aprill.Seleniumm.Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
